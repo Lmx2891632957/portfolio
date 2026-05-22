@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(mv temp-vite-app/* temp-vite-app/.* /Users/Zhuanz/myVibeProjects/portfolio/)",
+      "Bash(rmdir temp-vite-app *)",
+      "Bash(npm install *)"
+    ]
+  }
+}
